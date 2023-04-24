@@ -63,8 +63,7 @@
   color: #3a3a3a;
 }
 /* Heading */
-.title,
-.add-section__label {
+.title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -90,7 +89,7 @@
 }
 
 /* New Task */
-.add-section__label {
+.add-section__title {
   display: block;
   margin: 0 0 20px;
 }
